@@ -1,0 +1,11 @@
+C:\Users\торо\Desktop\Практика другим\ScheduleApp\ScheduleApp\obj\Debug\ScheduleApp.csproj.AssemblyReference.cache
+C:\Users\торо\Desktop\Практика другим\ScheduleApp\ScheduleApp\obj\Debug\ScheduleApp.AddEventForm.resources
+C:\Users\торо\Desktop\Практика другим\ScheduleApp\ScheduleApp\obj\Debug\ScheduleApp.MainForm.resources
+C:\Users\торо\Desktop\Практика другим\ScheduleApp\ScheduleApp\obj\Debug\ScheduleApp.Properties.Resources.resources
+C:\Users\торо\Desktop\Практика другим\ScheduleApp\ScheduleApp\obj\Debug\ScheduleApp.csproj.GenerateResource.cache
+C:\Users\торо\Desktop\Практика другим\ScheduleApp\ScheduleApp\obj\Debug\ScheduleApp.csproj.CoreCompileInputs.cache
+C:\Users\торо\Desktop\Практика другим\ScheduleApp\ScheduleApp\bin\Debug\ScheduleApp.exe.config
+C:\Users\торо\Desktop\Практика другим\ScheduleApp\ScheduleApp\bin\Debug\ScheduleApp.exe
+C:\Users\торо\Desktop\Практика другим\ScheduleApp\ScheduleApp\bin\Debug\ScheduleApp.pdb
+C:\Users\торо\Desktop\Практика другим\ScheduleApp\ScheduleApp\obj\Debug\ScheduleApp.exe
+C:\Users\торо\Desktop\Практика другим\ScheduleApp\ScheduleApp\obj\Debug\ScheduleApp.pdb
