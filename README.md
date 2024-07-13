@@ -32,7 +32,7 @@ ScheduleApp - это приложение для учета расписания
 MIT License
 Контакты
 
-Автор: Ваше Имя
+Автор: Виталий
 Электронная почта: vb62194@gmail.com
 GitHub: github.com/vitalyIST
 
